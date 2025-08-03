@@ -1,0 +1,23 @@
+{
+  "name": "mfrc522-ntag213",
+  "version": "1.0.0",
+  "description": "MFRC522 extension modified to support NTAG213 tags.",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": [
+    "README.md",
+    "MFRC522.ts"
+  ],
+  "testFiles": [
+    "test.ts"
+  ],
+  "targetVersions": {
+    "target": "4.0.11",
+    "targetId": "microbit"
+  },
+  "supportedTargets": [
+    "microbit"
+  ],
+  "preferredEditor": "tsprj"
+}
