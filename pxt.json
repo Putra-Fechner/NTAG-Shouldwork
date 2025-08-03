@@ -1,16 +1,12 @@
 {
-  "name": "mfrc522-ntag213",
-  "version": "1.0.0",
-  "description": "MFRC522 extension modified to support NTAG213 tags.",
+  "name": "ntag213-extension",
+  "version": "0.0.1",
+  "description": "MakeCode extension for NTAG213 with MFRC522",
   "dependencies": {
     "core": "*"
   },
   "files": [
-    "README.md",
     "MFRC522.ts"
-  ],
-  "testFiles": [
-    "test.ts"
   ],
   "targetVersions": {
     "target": "4.0.11",
